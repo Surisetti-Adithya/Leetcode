@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ADITHYA-37/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ADITHYA-37/Leetcode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ADITHYA-37/Leetcode/tree/master/0067-add-binary) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ADITHYA-37/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/ADITHYA-37/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ADITHYA-37/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ADITHYA-37/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ADITHYA-37/Leetcode/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/ADITHYA-37/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ADITHYA-37/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ADITHYA-37/Leetcode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ADITHYA-37/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ADITHYA-37/Leetcode/tree/master/0155-min-stack) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ADITHYA-37/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ADITHYA-37/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
