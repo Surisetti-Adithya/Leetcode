@@ -6,8 +6,6 @@ public:
             m=l+(h-l)/2;
             if (a[l]<a[h])
                 return a[l];
-            /*if (a[m]>a[m-1] && a[m]>a[m+1])
-                return a[m];*/
             if (a[m]>a[h])
                 l=m+1;
             else 
