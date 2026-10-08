@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ADITHYA-37/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ADITHYA-37/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ADITHYA-37/Leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/ADITHYA-37/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ADITHYA-37/Leetcode/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ADITHYA-37/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/ADITHYA-37/Leetcode/tree/master/0231-power-of-two) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ADITHYA-37/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/ADITHYA-37/Leetcode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ADITHYA-37/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ADITHYA-37/Leetcode/tree/master/0231-power-of-two) |
