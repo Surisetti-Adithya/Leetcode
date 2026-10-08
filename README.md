@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/ADITHYA-37/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/ADITHYA-37/Leetcode/tree/master/0441-arranging-coins) |
+| [0509-fibonacci-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ADITHYA-37/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/ADITHYA-37/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ADITHYA-37/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ADITHYA-37/Leetcode/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0509-fibonacci-number) |
 ## Interactive
 |  |
 | ------- |
@@ -232,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ADITHYA-37/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
