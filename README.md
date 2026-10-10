@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ADITHYA-37/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ADITHYA-37/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/ADITHYA-37/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/ADITHYA-37/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ADITHYA-37/Leetcode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ADITHYA-37/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADITHYA-37/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ADITHYA-37/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/ADITHYA-37/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ADITHYA-37/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/ADITHYA-37/Leetcode/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ADITHYA-37/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ADITHYA-37/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ADITHYA-37/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0645-set-mismatch](https://github.com/ADITHYA-37/Leetcode/tree/master/0645-set-mismatch) |
 ## Union-Find
 |  |
 | ------- |
