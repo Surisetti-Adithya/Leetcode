@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ADITHYA-37/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ADITHYA-37/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/ADITHYA-37/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ADITHYA-37/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ADITHYA-37/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ADITHYA-37/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ADITHYA-37/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ADITHYA-37/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ADITHYA-37/Leetcode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ADITHYA-37/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADITHYA-37/Leetcode/tree/master/0242-valid-anagram) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ADITHYA-37/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ADITHYA-37/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/ADITHYA-37/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Counting
@@ -290,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ADITHYA-37/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ADITHYA-37/Leetcode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
